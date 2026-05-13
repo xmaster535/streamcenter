@@ -182,13 +182,70 @@ async def scrape() -> None:
 
 
 def export() -> str:
-    """Export URLs as JSON string."""
-    return json.dumps(urls, indent=2)
+    """Export URLs as JSON string in app format."""
+    return json.dumps(export_to_list(), indent=2)
 
 
 def export_to_file(filepath: str = "streams.json") -> None:
     """Export URLs to JSON file."""
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(urls, f, indent=2)
+        json.dump(export_to_list(), f, indent=2)
     log.info(f"Exported {len(urls)} streams to {filepath}")
+
+
+def export_to_list() -> list:
+    """Convert URLs dict to app-compatible list format."""
+    result = []
+    for key, data in urls.items():
+        # Parse sport from key [Sport] Event (TAG)
+        sport = key.split("]")[0].replace("[", "").strip()
+
+        # Get time from timestamp
+        ts = data.get("timestamp", 0)
+        from datetime import datetime, timezone
+        dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+        time_str = dt.strftime("%H:%M:%S")
+        date_str = dt.strftime("%d/%m/%Y")
+
+        # Build full link with headers
+        m3u8_url = data.get("url", "")
+        referer = data.get("referer", "https://streamcenter.xyz")
+        origin = data.get("origin", "https://streamcenter.xyz")
+
+        full_link = (
+            f"{m3u8_url}"
+            f"|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            f"(KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+            f"&Referer={referer}"
+            f"&Origin={origin}"
+        )
+
+        # Get event name without sport tag
+        event_name = key.split("]")[1].replace(f"({TAG})", "").strip()
+
+        entry = {
+            "category": "Live Events",
+            "categoryLogo": "",
+            "date": date_str,
+            "eventLogo": "",
+            "link_names": ["DlSports"],
+            "show_noti": False,
+            "streaming_links": [
+                {
+                    "api": "",
+                    "link": full_link,
+                    "name": "DlSports",
+                    "tokenApi": ""
+                }
+            ],
+            "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+            "teamAName": f"[{sport}] {event_name}",
+            "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+            "teamBName": "",
+            "time": time_str,
+            "visible": True
+        }
+        result.append(entry)
+
+    return result
 
