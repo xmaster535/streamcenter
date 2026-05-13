@@ -1,9 +1,23 @@
 from functools import partial
 import json
+import importlib.util
 
+# Import selectolax
 from selectolax.parser import HTMLParser
 
-from .utils import Cache, Time, get_logger, leagues, network
+# Try relative import first (for package), fallback to absolute
+try:
+    from .utils import Cache, Time, get_logger, leagues, network
+except ImportError:
+    # For direct execution or GitHub Actions
+    spec = importlib.util.spec_from_file_location("utils", "utils.py")
+    utils = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(utils)
+    Cache = utils.Cache
+    Time = utils.Time
+    get_logger = utils.get_logger
+    leagues = utils.leagues
+    network = utils.network
 
 log = get_logger(__name__)
 
