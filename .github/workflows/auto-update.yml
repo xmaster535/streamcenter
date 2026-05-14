@@ -1,9 +1,9 @@
 name: Auto Update
 
 on:
+  # Run every 5 minutes
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
-  workflow_dispatch:  # Manual trigger
+    - cron: '*/5 * * * *'
 
 jobs:
   update:
