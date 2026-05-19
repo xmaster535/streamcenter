@@ -555,7 +555,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779142326.821263,
+        "timestamp": 1779187726.918957,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch19.php"
     },
@@ -565,7 +565,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779142326.821263,
+        "timestamp": 1779187726.918957,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch15.php"
     },
@@ -575,7 +575,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779142326.821263,
+        "timestamp": 1779187726.918957,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch16.php"
     },
@@ -585,7 +585,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779142326.821263,
+        "timestamp": 1779187726.918957,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch17.php"
     },
@@ -595,7 +595,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779142326.821263,
+        "timestamp": 1779187726.918957,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch18.php"
     },
@@ -606,6 +606,26 @@
         "logo": "",
         "base": "https://streamcenter.xyz",
         "timestamp": 1779142326.821263,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Tottenham Hotspur at Chelsea (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779187726.918957,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch2.php"
+    },
+    "[Football] Manchester City at AFC Bournemouth (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779187726.918957,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
     }

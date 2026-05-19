@@ -1322,7 +1322,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "18/05/2026",
+    "date": "19/05/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -1340,13 +1340,13 @@
     "teamAName": "[Baseball] New York Mets at Washington Nationals",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:12:06",
+    "time": "10:48:46",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "18/05/2026",
+    "date": "19/05/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -1364,13 +1364,13 @@
     "teamAName": "[Baseball] Atlanta Braves at Miami Marlins",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:12:06",
+    "time": "10:48:46",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "18/05/2026",
+    "date": "19/05/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -1388,13 +1388,13 @@
     "teamAName": "[Baseball] Baltimore Orioles at Tampa Bay Rays",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:12:06",
+    "time": "10:48:46",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "18/05/2026",
+    "date": "19/05/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -1412,13 +1412,13 @@
     "teamAName": "[Baseball] Cincinnati Reds at Philadelphia Phillies",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:12:06",
+    "time": "10:48:46",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "18/05/2026",
+    "date": "19/05/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -1436,7 +1436,7 @@
     "teamAName": "[Baseball] Cleveland Guardians at Detroit Tigers",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:12:06",
+    "time": "10:48:46",
     "visible": true
   },
   {
@@ -1461,6 +1461,54 @@
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
     "time": "22:12:06",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "19/05/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Tottenham Hotspur at Chelsea",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:48:46",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "19/05/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Manchester City at AFC Bournemouth",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:48:46",
     "visible": true
   }
 ]
