@@ -688,5 +688,55 @@
         "timestamp": 1779388153.934622,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] Cleveland Guardians at Philadelphia Phillies (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779446105.813753,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] St. Louis Cardinals at Cincinnati Reds (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779446105.813753,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Football] Atalanta at Fiorentina (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/syaLqucEne4k.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779446105.813753,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch9.php"
+    },
+    "[Baseball] Houston Astros at Chicago Cubs (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779446105.813753,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Motor Sport] Lenovo Canadian Grand Prix (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779446105.813753,
+        "id": "MotorSport.us",
+        "link": "https://streams.center/embed/ch49.php"
     }
 }
