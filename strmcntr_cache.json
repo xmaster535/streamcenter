@@ -1128,5 +1128,95 @@
         "timestamp": 1779637717.329505,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch9.php"
+    },
+    "[Baseball] Philadelphia Phillies at San Diego Padres (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Baseball] Washington Nationals at Cleveland Guardians (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch22.php"
+    },
+    "[Baseball] Arizona Diamondbacks at San Francisco Giants (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch21.php"
+    },
+    "[Baseball] Cincinnati Reds at New York Mets (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch20.php"
+    },
+    "[Baseball] New York Yankees at Kansas City Royals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch19.php"
+    },
+    "[Baseball] Minnesota Twins at Chicago White Sox (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Baseball] St. Louis Cardinals at Milwaukee Brewers (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch18.php"
+    },
+    "[Baseball] Chicago Cubs at Pittsburgh Pirates (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Baseball] Tampa Bay Rays at Baltimore Orioles (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1779713262.358743,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
     }
 }
