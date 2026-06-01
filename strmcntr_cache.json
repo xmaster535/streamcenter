@@ -1568,5 +1568,45 @@
         "timestamp": 1780239873.351567,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] Miami Marlins at Washington Nationals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780342061.878313,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] Detroit Tigers at Tampa Bay Rays (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780342061.878313,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Football] North Macedonia at T\u00fcrkiye (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780342061.878313,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch2.php"
+    },
+    "[Football] Sweden at Norway (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780342061.878313,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
     }
 }
