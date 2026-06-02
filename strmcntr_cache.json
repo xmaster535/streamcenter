@@ -1570,14 +1570,14 @@
         "link": "https://streams.center/embed/ch1.php"
     },
     "[Baseball] Miami Marlins at Washington Nationals (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
         "referer": "https://streamcenter.xyz/",
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780358356.437817,
+        "timestamp": 1780405219.115549,
         "id": "Baseball.us",
-        "link": "https://streams.center/embed/ch16.php"
+        "link": "https://streams.center/embed/ch18.php"
     },
     "[Baseball] Detroit Tigers at Tampa Bay Rays (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
@@ -1585,7 +1585,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780358356.437817,
+        "timestamp": 1780405219.115549,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch15.php"
     },
@@ -1606,6 +1606,46 @@
         "logo": "",
         "base": "https://streamcenter.xyz",
         "timestamp": 1780342061.878313,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] Baltimore Orioles at Boston Red Sox (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780405219.115549,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Baseball] San Diego Padres at Philadelphia Phillies (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780405219.115549,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Football] Ghana at Wales (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780405219.115549,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch2.php"
+    },
+    "[Football] Belgium at Croatia (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780405219.115549,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
     }
