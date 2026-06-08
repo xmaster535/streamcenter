@@ -2098,5 +2098,55 @@
         "timestamp": 1780882606.918307,
         "id": "Basketball.us",
         "link": "https://streams.center/embed/ch71.php"
+    },
+    "[Baseball] Boston Red Sox at Tampa Bay Rays (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780899775.615416,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] New York Yankees at Cleveland Guardians (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780899775.615416,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Baseball] Seattle Mariners at Baltimore Orioles (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780899775.615416,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Football] Northern Ireland at France (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780899775.615416,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch2.php"
+    },
+    "[Football] Uzbekistan at Netherlands (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780899775.615416,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
     }
 }
