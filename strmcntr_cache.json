@@ -1770,14 +1770,14 @@
         "link": "https://streams.center/embed/ch19.php"
     },
     "[Baseball] San Francisco Giants at Chicago Cubs (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "referer": "https://streamcenter.xyz/",
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1780778693.284749,
+        "timestamp": 1780882606.918307,
         "id": "Baseball.us",
-        "link": "https://streams.center/embed/ch18.php"
+        "link": "https://streams.center/embed/ch29.php"
     },
     "[Football] Finland at Hungary (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8",
@@ -2088,5 +2088,15 @@
         "timestamp": 1780861803.011349,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Basketball] Portland Fire at Los Angeles Sparks (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1780882606.918307,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch71.php"
     }
 }
