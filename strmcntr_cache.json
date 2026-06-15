@@ -2315,7 +2315,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781050413.034179,
+        "timestamp": 1781482791.646296,
         "id": "Hockey.us",
         "link": "https://streams.center/embed/ch50.php"
     },
@@ -2550,14 +2550,14 @@
         "link": "https://streams.center/embed/ch21.php"
     },
     "[Baseball] Texas Rangers at Boston Red Sox (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8",
         "referer": "https://streamcenter.xyz/",
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781394682.616162,
+        "timestamp": 1781482791.646296,
         "id": "Baseball.us",
-        "link": "https://streams.center/embed/ch23.php"
+        "link": "https://streams.center/embed/ch29.php"
     },
     "[Baseball] Los Angeles Dodgers at Chicago White Sox (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
@@ -2786,6 +2786,36 @@
         "logo": "",
         "base": "https://streamcenter.xyz",
         "timestamp": 1781468665.289857,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Tunisia at Sweden (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781482791.646296,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Fight MMA] UFC Freedom 250: Topuria vs. Gaethje (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781482791.646296,
+        "id": "FightMMA.us",
+        "link": "https://streams.center/embed/ch48.php"
+    },
+    "[Football] Ecuador at Ivory Coast (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781482791.646296,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
     }
