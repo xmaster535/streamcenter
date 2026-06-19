@@ -3228,5 +3228,35 @@
         "timestamp": 1781826741.658055,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch19.php"
+    },
+    "[Baseball] Los Angeles Angels at Athletics Athletics (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781840114.195908,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Football] South Korea at Mexico (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781840114.195908,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] St. Louis Cardinals at Kansas City Royals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781840114.195908,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch22.php"
     }
 }
