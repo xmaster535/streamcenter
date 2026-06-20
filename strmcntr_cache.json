@@ -3265,7 +3265,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch15.php"
     },
@@ -3295,7 +3295,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch17.php"
     },
@@ -3305,7 +3305,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "FightMMA.us",
         "link": "https://streams.center/embed/ch48.php"
     },
@@ -3395,7 +3395,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch18.php"
     },
@@ -3415,7 +3415,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch19.php"
     },
@@ -3425,7 +3425,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch20.php"
     },
@@ -3435,7 +3435,7 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch21.php"
     },
@@ -3445,8 +3445,28 @@
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1781935184.863712,
+        "timestamp": 1781947893.43008,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Football] Ivory Coast at Germany (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781947893.43008,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Sweden at Netherlands (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1781947893.43008,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
     }
 }
