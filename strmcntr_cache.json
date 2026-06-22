@@ -3578,5 +3578,65 @@
         "timestamp": 1782086408.176538,
         "id": "Basketball.us",
         "link": "https://streams.center/embed/ch72.php"
+    },
+    "[Baseball] Philadelphia Phillies at Washington Nationals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch18.php"
+    },
+    "[Baseball] Kansas City Royals at Tampa Bay Rays (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch16.php"
+    },
+    "[Baseball] Texas Rangers at Miami Marlins (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
+    },
+    "[Baseball] New York Yankees at Detroit Tigers (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dazhfiach15.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Football] Iraq at France (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Austria at Argentina (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782105796.044307,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
     }
 }
