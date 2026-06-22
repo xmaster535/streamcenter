@@ -7730,7 +7730,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "21/06/2026",
+    "date": "22/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -7739,7 +7739,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -7748,7 +7748,7 @@
     "teamAName": "[Baseball] New York Mets at Philadelphia Phillies",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "02:07:41",
+    "time": "00:00:08",
     "visible": true
   },
   {
@@ -8541,6 +8541,54 @@
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
     "time": "18:14:21",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "22/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Egypt at New Zealand",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "00:00:08",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "22/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Basketball] New York Liberty at Los Angeles Sparks",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "00:00:08",
     "visible": true
   }
 ]
