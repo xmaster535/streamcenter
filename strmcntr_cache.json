@@ -3638,5 +3638,155 @@
         "timestamp": 1782157161.120785,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] Algeria at Jordan (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] Atlanta Braves at San Diego Padres (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch27.php"
+    },
+    "[Basketball] Dallas Wings at Seattle Storm (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch73.php"
+    },
+    "[Baseball] Baltimore Orioles at Los Angeles Angels (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch26.php"
+    },
+    "[Baseball] Boston Red Sox at Colorado Rockies (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch25.php"
+    },
+    "[Football] Senegal at Norway (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/griogoehvn2.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch5.php"
+    },
+    "[Basketball] Phoenix Mercury at Indiana Fever (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch72.php"
+    },
+    "[Baseball] Arizona Diamondbacks at St. Louis Cardinals (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch24.php"
+    },
+    "[Baseball] Cleveland Guardians at Chicago White Sox (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch22.php"
+    },
+    "[Baseball] Los Angeles Dodgers at Minnesota Twins (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Basketball] Toronto Tempo at Atlanta Dream (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch71.php"
+    },
+    "[Baseball] Chicago Cubs at New York Mets (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch20.php"
+    },
+    "[Baseball] Milwaukee Brewers at Cincinnati Reds (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch21.php"
+    },
+    "[Baseball] Houston Astros at Toronto Blue Jays (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch19.php"
+    },
+    "[Basketball] Chicago Sky at Connecticut Sun (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782174025.98466,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch70.php"
     }
 }
