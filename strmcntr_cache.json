@@ -3978,5 +3978,45 @@
         "timestamp": 1782431974.605904,
         "id": "Football.us",
         "link": "https://streams.center/embed/ch3.php"
+    },
+    "[Football] Australia at Paraguay (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782447895.123472,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Football] United States at T\u00fcrkiye (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782447895.123472,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch3.php"
+    },
+    "[Basketball] Dallas Wings at Las Vegas Aces (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782447895.123472,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch71.php"
+    },
+    "[Basketball] New York Liberty at Seattle Storm (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782447895.123472,
+        "id": "Basketball.us",
+        "link": "https://streams.center/embed/ch72.php"
     }
 }
