@@ -9482,7 +9482,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "28/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9491,7 +9491,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9500,7 +9500,7 @@
     "teamAName": "[Baseball] Houston Astros at Detroit Tigers",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "20:00:35",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -9674,7 +9674,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "28/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9683,7 +9683,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9692,7 +9692,7 @@
     "teamAName": "[Baseball] Cincinnati Reds at Pittsburgh Pirates",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "23:36:34",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -9746,7 +9746,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "28/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9755,7 +9755,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9764,37 +9764,13 @@
     "teamAName": "[Baseball] Arizona Diamondbacks at Tampa Bay Rays",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "23:36:34",
+    "time": "06:04:18",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Philadelphia Phillies at New York Mets",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "23:36:34",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "28/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9809,16 +9785,40 @@
       }
     ],
     "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Kansas City Royals at Chicago White Sox",
+    "teamAName": "[Baseball] Philadelphia Phillies at New York Mets",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "23:36:34",
+    "time": "06:04:18",
     "visible": true
   },
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "28/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Kansas City Royals at Chicago White Sox",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "06:04:18",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "28/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9836,7 +9836,7 @@
     "teamAName": "[Baseball] Texas Rangers at Toronto Blue Jays",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "22:31:12",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -9947,7 +9947,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9956,7 +9956,7 @@
     "teamAName": "[Baseball] Atlanta Braves at San Francisco Giants",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -9971,7 +9971,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9980,31 +9980,7 @@
     "teamAName": "[Baseball] Los Angeles Dodgers at San Diego Padres",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "28/06/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Athletics Athletics at Los Angeles Angels",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10025,10 +10001,10 @@
       }
     ],
     "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Miami Marlins at St. Louis Cardinals",
+    "teamAName": "[Baseball] Athletics Athletics at Los Angeles Angels",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10049,10 +10025,34 @@
       }
     ],
     "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Miami Marlins at St. Louis Cardinals",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "06:04:18",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "28/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamAName": "[Baseball] Colorado Rockies at Minnesota Twins",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10115,7 +10115,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -10124,7 +10124,7 @@
     "teamAName": "[Baseball] Chicago Cubs at Milwaukee Brewers",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10139,7 +10139,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -10148,7 +10148,7 @@
     "teamAName": "[Baseball] Seattle Mariners at Cleveland Guardians",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10163,7 +10163,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -10172,7 +10172,7 @@
     "teamAName": "[Baseball] Washington Nationals at Baltimore Orioles",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "01:50:21",
+    "time": "06:04:18",
     "visible": true
   },
   {
@@ -10389,6 +10389,78 @@
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
     "time": "01:50:21",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "28/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Basketball] Las Vegas Aces at Chicago Sky",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "06:04:18",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "28/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Basketball] Portland Fire at Washington Mystics",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "06:04:18",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "28/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Basketball] Minnesota Lynx at Dallas Wings",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "06:04:18",
     "visible": true
   }
 ]
