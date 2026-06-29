@@ -9842,7 +9842,7 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
-    "date": "27/06/2026",
+    "date": "29/06/2026",
     "eventLogo": "",
     "link_names": [
       "DlSports"
@@ -9851,7 +9851,7 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
       }
@@ -9860,7 +9860,7 @@
     "teamAName": "[Baseball] New York Yankees at Boston Red Sox",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "20:00:35",
+    "time": "01:38:30",
     "visible": true
   },
   {
@@ -10485,6 +10485,78 @@
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
     "time": "22:16:07",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "29/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Paraguay at Germany",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "01:38:30",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "29/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Japan at Brazil",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "01:38:30",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "29/06/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Basketball] New York Liberty at Golden State Valkyries",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "01:38:30",
     "visible": true
   }
 ]
