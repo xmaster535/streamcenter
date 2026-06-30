@@ -640,14 +640,14 @@
         "link": "https://streams.center/embed/ch20.php"
     },
     "[Baseball] San Francisco Giants at Arizona Diamondbacks (STRMCNTR)": {
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8",
         "referer": "https://streamcenter.xyz/",
         "origin": "https://streamcenter.xyz",
         "logo": "",
         "base": "https://streamcenter.xyz",
-        "timestamp": 1779305610.201883,
+        "timestamp": 1782783166.964592,
         "id": "Baseball.us",
-        "link": "https://streams.center/embed/ch19.php"
+        "link": "https://streams.center/embed/ch27.php"
     },
     "[Baseball] Texas Rangers at Colorado Rockies (STRMCNTR)": {
         "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
@@ -4418,5 +4418,125 @@
         "timestamp": 1782775808.982829,
         "id": "Baseball.us",
         "link": "https://streams.center/embed/ch15.php"
+    },
+    "[Baseball] Los Angeles Angels at Seattle Mariners (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch25.php"
+    },
+    "[Baseball] Los Angeles Dodgers at Athletics Athletics (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch26.php"
+    },
+    "[Football] Morocco at Netherlands (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Football.us",
+        "link": "https://streams.center/embed/ch1.php"
+    },
+    "[Baseball] Miami Marlins at Colorado Rockies (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch24.php"
+    },
+    "[Baseball] Minnesota Twins at Houston Astros (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch23.php"
+    },
+    "[Baseball] San Diego Padres at Chicago Cubs (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch22.php"
+    },
+    "[WWE] Las Vegas Aces at New York Liberty (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/zeuryuegn48.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "WWE.us",
+        "link": "https://streams.center/embed/ch48.php"
+    },
+    "[Baseball] Cincinnati Reds at Milwaukee Brewers (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch21.php"
+    },
+    "[Baseball] Washington Nationals at Boston Red Sox (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch20.php"
+    },
+    "[Baseball] New York Mets at Toronto Blue Jays (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch19.php"
+    },
+    "[Baseball] Detroit Tigers at New York Yankees (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch18.php"
+    },
+    "[Baseball] Texas Rangers at Cleveland Guardians (STRMCNTR)": {
+        "url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8",
+        "referer": "https://streamcenter.xyz/",
+        "origin": "https://streamcenter.xyz",
+        "logo": "",
+        "base": "https://streamcenter.xyz",
+        "timestamp": 1782783166.964592,
+        "id": "Baseball.us",
+        "link": "https://streams.center/embed/ch17.php"
     }
 }
