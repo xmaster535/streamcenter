@@ -11210,6 +11210,30 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Detroit Tigers at Texas Rangers",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
     "date": "03/07/2026",
     "eventLogo": "",
     "link_names": [
@@ -11282,6 +11306,30 @@
   {
     "category": "Live Events",
     "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Pittsburgh Pirates at Washington Nationals",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
     "date": "03/07/2026",
     "eventLogo": "",
     "link_names": [
@@ -11349,6 +11397,126 @@
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
     "time": "21:50:53",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Motor Sport] Pirelli British Grand Prix",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] France at Paraguay",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Toronto Blue Jays at Seattle Mariners",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Baseball] Minnesota Twins at New York Yankees",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
+    "visible": true
+  },
+  {
+    "category": "Live Events",
+    "categoryLogo": "",
+    "date": "04/07/2026",
+    "eventLogo": "",
+    "link_names": [
+      "DlSports"
+    ],
+    "show_noti": false,
+    "streaming_links": [
+      {
+        "api": "",
+        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
+        "name": "DlSports",
+        "tokenApi": ""
+      }
+    ],
+    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamAName": "[Football] Morocco at Canada",
+    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
+    "teamBName": "",
+    "time": "10:59:57",
     "visible": true
   },
   {
@@ -11555,30 +11723,6 @@
     "streaming_links": [
       {
         "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Football] France at Paraguay",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
         "link": "https://mainstreams.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
         "name": "DlSports",
         "tokenApi": ""
@@ -11588,7 +11732,7 @@
     "teamAName": "[Basketball] Brooklyn Nets at Sacramento Kings",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "09:08:37",
+    "time": "10:59:57",
     "visible": true
   },
   {
@@ -11612,55 +11756,7 @@
     "teamAName": "[Basketball] Atlanta Hawks at Utah Jazz",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Toronto Blue Jays at Seattle Mariners",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Detroit Tigers at Texas Rangers",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
+    "time": "10:59:57",
     "visible": true
   },
   {
@@ -11684,7 +11780,7 @@
     "teamAName": "[Basketball] Milwaukee Bucks at Golden State Warriors Blue",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "09:08:37",
+    "time": "10:59:57",
     "visible": true
   },
   {
@@ -11708,103 +11804,7 @@
     "teamAName": "[Basketball] Memphis Grizzlies at Oklahoma City Thunder",
     "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
     "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Minnesota Twins at New York Yankees",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Football] Morocco at Canada",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Baseball] Pittsburgh Pirates at Washington Nationals",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
-    "visible": true
-  },
-  {
-    "category": "Live Events",
-    "categoryLogo": "",
-    "date": "04/07/2026",
-    "eventLogo": "",
-    "link_names": [
-      "DlSports"
-    ],
-    "show_noti": false,
-    "streaming_links": [
-      {
-        "api": "",
-        "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz/&Origin=https://streamcenter.xyz",
-        "name": "DlSports",
-        "tokenApi": ""
-      }
-    ],
-    "teamAFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamAName": "[Motor Sport] Pirelli British Grand Prix",
-    "teamBFlag": "https://github.com/falconcasthoster/images/blob/main/FalconCast.png?raw=true",
-    "teamBName": "",
-    "time": "09:08:37",
+    "time": "10:59:57",
     "visible": true
   }
 ]
